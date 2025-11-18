@@ -54,8 +54,8 @@ Slick Slider
 role_based_app/
  ├── backend/       → Laravel API
  ├── frontend/      → React UI
- ├── README.md
- └── .gitignore
+ └── README.md
+  
 
 🛠 Installation Guide
 1️⃣ Backend Setup (Laravel + MySQL)
