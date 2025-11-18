@@ -4,7 +4,7 @@ export default function Footer(){
   return (
     <footer className="footer">
       <div className="container small-muted">
-        © {new Date().getFullYear()} RoleAuth — A Role-Based App. Built for learning.
+        © {new Date().getFullYear()} RoleAuth — A Role-Based App. Built for Next Gen.
       </div>
     </footer>
   );
