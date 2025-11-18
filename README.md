@@ -96,8 +96,12 @@ Login:
 
 POST http://127.0.0.1:8000/api/user/login
 
-```
+
 
 Get All Users (Admin):
 
 GET http://127.0.0.1:8000/api/admin/users
+
+
+```
+
