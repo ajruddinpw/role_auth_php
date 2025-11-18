@@ -51,7 +51,7 @@ React Router DOM
 Slick Slider
 
 📁 Project Structure
-role_based_app/
+role_auth_php/
  ├── backend/       → Laravel API
  ├── frontend/      → React UI
  └── README.md
