@@ -1,5 +1,5 @@
 ``` bash
-⭐ Role Based Web Application (Admin / Partner / Customer)
+# Role Based Web Application (Admin / Partner / Customer)
 
 A complete full-stack role-based authentication system using:
 
