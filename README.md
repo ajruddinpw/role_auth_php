@@ -97,11 +97,25 @@ Login:
 POST http://127.0.0.1:8000/api/user/login
 
 
-
+# FINAL FLOW VISUAL
 Get All Users (Admin):
 
 GET http://127.0.0.1:8000/api/admin/users
 
-
+React (Login.jsx)
+     ↓
+Axios sends POST /user/login
+     ↓
+Laravel Route → /api/user/login
+     ↓
+AuthController@login()
+     ↓
+User Model (User.php)
+     ↓
+MySQL Database
+     ↓
+Controller returns JSON Response
+     ↓
+React reads response → Stores token → Redirects user
 ```
 
