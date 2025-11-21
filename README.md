@@ -117,5 +117,6 @@ MySQL Database
 Controller returns JSON Response
      ↓
 React reads response → Stores token → Redirects user
+
 ```
 
